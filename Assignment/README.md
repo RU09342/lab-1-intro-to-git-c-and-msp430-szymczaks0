@@ -1,5 +1,5 @@
 ###### Stephen Szymczak
-##Simple Calculator Function
+## Simple Calculator Function
 
 This calculator takes 2 operands that are integers and performs an operation on them based a selected operator.
 These operators include: +,-,*,/,%.
@@ -11,4 +11,4 @@ Example of function:
 - To perform 5+2 and store it in a variable sum the notation would be:
 	sum = math(5,2,'+');
 
-###NOTE: This calculator function does not handle divide by zero.
+### NOTE: This calculator function does not handle divide by zero.
